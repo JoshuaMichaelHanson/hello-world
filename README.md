@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Adding sweet repository to hold some sample code for the mayo clinic.
+
+The first bit of code will be the jmhMap
